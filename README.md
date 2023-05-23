@@ -49,8 +49,8 @@ If need be, update these variables with your credentials:
 - DB_USERNAME
 - DB_PASSWORD
 
-By default, the DB_NAME is defined as 'appfire', if you would like to use a different name for your database,
-you can update this variable as well.
+If you would like to use a different name for your database,
+you can update the DB_NAME variable as well.
 
 The variables are located in two separate .env files for testing and development environments respectively:
 
